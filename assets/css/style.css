@@ -4,6 +4,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* body style here  */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #39a6b2;
+}
 /* header style  */
 header{
     padding: 20px 35px;
@@ -36,8 +41,8 @@ header nav ul li a{
     font-size: 22px;
 }
 
-
-Footer{
+/* footer style here  */
+footer{
     background-color: #fce138;
     width: 100%;
     padding: 40px 35px;
@@ -60,7 +65,3 @@ footer a{
     color: #024e76;
 }
 
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    color: #39a6b2;
-}
