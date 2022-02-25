@@ -194,12 +194,22 @@ section{
     line-height: 1.5;
     color: #024e76;
 }
+.step-text{
+    flex: 12;
+}
 
 .step-text p{
     color: #39a6b2;
     font-size: 18px;
-}
 
+}
+.step-img {
+    flex: 1 12%;
+    margin-right: 20px;
+}
+.step-img img{
+    max-width: 100%;
+}
 
 /* section styling */
 .section-title{
@@ -223,9 +233,7 @@ section{
 
 /* trainer style  */
 
-.trainers{
-    
-}
+
 
 .trainer{
     width: 900px;
